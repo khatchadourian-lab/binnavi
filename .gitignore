@@ -21,11 +21,6 @@ gen/
 **/build-data.properties
 binnavi.map
 
-# Eclipse project files
-.classpath
-.project
-.settings
-
 # Intellij project files
 *.iml
 *.ipr
